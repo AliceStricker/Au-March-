@@ -1,0 +1,201 @@
+
+body{
+    margin: 5vh;
+    background-color: rgb(255, 255, 255);
+}
+.titre{
+    color: rgb(0, 0, 0);
+    font-size: 6rem;
+    font-family: BebasNeue-Regular;
+    width: 50%;
+    padding-left: 5vh;
+    background-color: rgba(255, 255, 255, 0.568);
+}
+
+
+
+.boutton1{
+    font-family: BebasNeue-Regular;
+    margin-left: 14%;
+    font-size: 4vh;
+    margin-top: 2vh;
+    color: rgb(255, 255, 255);
+
+}
+
+
+
+.boutton3 :hover{
+    color: rgb(255, 255, 255);
+    
+}
+
+.boutton1 :hover{
+    color: rgb(255, 255, 255);
+    
+}
+
+
+.boutton3{
+    font-family: Baikal-Regular;
+    margin-left: 14%;
+    font-size: 4vh;
+    margin-top: 2vh;
+    color: rgb(255, 255, 255);
+
+}
+
+
+
+
+.boutton{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    padding-top: -15vh;
+   
+}
+
+
+
+
+
+.bande{
+    width: 100%;
+    height: auto;
+    background-color: rgb(255, 0, 65);
+     
+   
+    margin-left: -5vh;
+    position: fixed;
+    top: 0;
+  
+    
+}
+a { color: rgb(0, 0, 0); } 
+
+
+.menu{
+    font-size: 3vh;
+    text-align: left;
+    font-family: BebasNeue-Regular;
+    margin-top: -11vh;
+   
+
+    
+
+}
+
+
+.menu21{
+    font-size: 3vh;
+    text-align: right;
+    font-family: BebasNeue-Regular;
+    margin-top: -8vh;
+   
+
+    
+
+}
+
+.menu22{
+    font-size: 3vh;
+    text-align: right;
+    font-family: BebasNeue-Regular;
+    margin-top: -10vh;
+   
+
+    
+
+}
+
+
+.menu42{
+    font-size: 15vh;
+    text-align: right;
+    font-family: BebasNeue-Regular;
+    margin-top: -8vh;
+   
+
+    
+
+}
+
+.men{
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+.menu1{
+    font-size: 15vh;
+    margin-top: -3vh;
+   
+    font-family: BebasNeue-Regular;
+    color: rgb(0, 0, 0);display: flex;
+    
+    
+
+}
+
+.menu12{
+    font-size: 15vh;
+    margin-top: 12vh;
+   
+    font-family: BebasNeue-Regular;
+    color: rgb(0, 0, 0);display: flex;
+    
+    
+
+}
+
+
+
+.menu1 :hover{
+    color: rgb(255, 0, 65);
+}
+
+.menu12 :hover{
+    color: rgb(255, 0, 65);
+}
+
+.menu42 :hover{
+    color: rgb(255, 0, 65);
+}
+
+
+.bande2{
+    width: 100%;
+    height: auto;
+    background-color: rgb(255, 0, 65);
+    margin: vh;
+    color: black;
+    font-size: 6vh;
+    font-family: Baikal-Regular;
+    margin-top: 5vh;
+    margin-left: -5vh;
+    position: fixed;
+    bottom: 0;
+    
+}
+a { color: #ffffff; } /* CSS link color */
+
+body{
+    background-image: url(img/carte.svg) ;
+    background-size: cover;
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+.pan{
+   
+   margin-top: 6%;
+   margin-left: 3%;
+  height: 300px;
+  box-shadow: rgba(68, 68, 68, 0.603) 2px 2px 28px 2px;
+    
+}

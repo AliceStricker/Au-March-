@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Au ",
+			"path": "."
+		},
+		{
+			"name": "imgmagazine",
+			"path": "../../../../../Downloads/imgmagazine"
+		},
+		{
+			"name": "img magazine",
+			"path": "../../../../../Downloads/img magazine"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Au "
+	}
+}

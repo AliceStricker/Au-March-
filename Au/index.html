@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="demarrage.css">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <div class="section1">
+        <div class="bande">
+            <div class="boutton">
+
+
+                <div class="boutton3">
+
+                    <a href="Acceuil.html" style="text-decoration:none" .> <u>Login <i></i></u> </a>
+
+
+                </div>
+
+
+            </div>
+
+        </div>
+
+        <div class="partie1">
+
+            <div class="cadre1">
+
+
+                <div class="titre">
+
+                    <div class="titi">
+                        <div class="titi2">
+
+                            Au Marché <i>!</i>
+                        </div>
+
+                        À travers les marchés lausannois
+
+
+
+                    </div>
+
+
+
+                    <div class="section1">
+
+                        <div class="EDIZION">
+                            EDITION 2024
+                        </div>
+                        <!-- Votre contenu ici... -->
+
+
+
+
+
+
+
+                        <div class="vertical-menu">
+
+
+
+
+                            <a class="roule" href="#">Printemps</a>
+                            <a class="roule" href="#">Été</a>
+                            <a class="roule" href="#">Automne</a>
+                            <a class="roule" href="Acceuil.html">Hiver</a>
+
+
+
+
+                        </div>
+                    </div>
+
+                    <script>
+                        document.addEventListener('DOMContentLoaded', function () {
+                            var verticalMenu = document.querySelector('.vertical-menu');
+                            var body = document.body;
+
+                            verticalMenu.addEventListener('scroll', function () {
+                                // Exemple : Changer la couleur de fond en fonction du défilement
+                                var scrollPercentage = (verticalMenu.scrollTop / (verticalMenu.scrollHeight - verticalMenu.clientHeight));
+                                if (scrollPercentage < 0.25) {
+                                    body.style.backgroundColor = '#FF7EFF'; // jaune
+                                } else if (scrollPercentage < 0.50) {
+                                    body.style.backgroundColor = '#C4D7F2'; // Orange
+                                } else if (scrollPercentage < 0.75) {
+                                    body.style.backgroundColor = '#FF6A41'; // Vert clair
+                                } else {
+                                    body.style.backgroundColor = '#FF0040'; // Turquoise
+                                }
+                            });
+                        });
+                    </script>
+</body>
+
+</html>

@@ -1,0 +1,361 @@
+
+body{
+    margin: 5vh;
+    background-color: rgb(255, 255, 255);
+}
+.titre{
+   color: rgb(0, 0, 0);
+    font-size: 6rem;
+    font-family: BebasNeue-Regular;
+    padding-left: 5vh;
+}
+
+
+
+.boutton1{
+    font-family: BebasNeue-Regular;
+    margin-left: 14%;
+    font-size: 4vh;
+    margin-top: 2vh;
+    color: rgb(255, 255, 255);
+
+}
+
+
+
+.boutton3 :hover{
+    color: rgb(0, 0, 0);
+    
+}
+
+.boutton1 :hover{
+    color: rgb(0, 0, 0);
+    
+}
+
+
+.boutton3{
+    font-family: Baikal-Regular;
+    margin-left: 14%;
+    font-size: 4vh;
+    margin-top: 2vh;
+    color: rgb(255, 255, 255);
+
+}
+
+
+
+
+.boutton{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    padding-top: -15vh;
+   
+}
+
+
+
+
+
+.bande{
+    width: 100%;
+    height: auto;
+    background-color: rgb(255, 0, 65);
+     
+   
+    margin-left: -5vh;
+    position: fixed;
+    top: 0;
+  
+    
+}
+a { color: rgb(255, 255, 255); } 
+
+
+
+
+
+.bande2{
+    width: 100%;
+    height: auto;
+    background-color: rgb(255, 0, 65);
+    margin: vh;
+    color: black;
+    font-size: 6vh;
+    font-family: Baikal-Regular;
+    margin-top: 5vh;
+    margin-left: -5vh;
+    position: fixed;
+    bottom: 0;
+    
+}
+.titrebas{
+    font-size: 3.5vh;
+    margin-left: 5vh;
+    font-family: BebasNeue-Regular;
+    color: rgb(0, 0, 0);
+
+}
+
+.articles{
+    text-decoration: none;
+}
+
+
+
+.articles :hover{
+    color: rgb(255, 0, 65);
+    margin-left: 2vh;
+}
+
+.titre3{
+    display: flex;
+    margin-top: -10vh;
+    color: rgb(0, 0, 0);
+}
+
+
+.titre2{
+    color: black;
+    font-size: 1.5rem;
+    font-family: BebasNeue-Regular;
+    margin-top: -1vh;
+    color: rgb(0, 0, 0);
+}
+
+
+
+.chevre{
+    margin-top: -4vh;
+    margin-left: 22vh;
+    font-size: vh;
+    color: rgb(0, 0, 0);
+}
+
+.article2{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 65);
+    font-size: 2vh;
+    width: 45%;
+    text-align: center;
+}
+
+.article2choc{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 65);
+    font-size: 2vh;
+    width: 27%;
+    text-align: center;
+}
+
+
+.article72{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 65);
+    font-size: 2vh;
+    width: 35%;
+    text-align: center;
+}
+
+
+.article72choc{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 65);
+    font-size: 2vh;
+    width: 10%;
+    text-align: center;
+}
+
+
+.article22{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 65);
+    font-size: 2vh;
+    width: 32%;
+    text-align: center;
+    margin-left: 68%;
+    
+}
+
+.article22chic{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 65);
+    font-size: 2vh;
+    width: 32%;
+    text-align: center;
+    margin-left: 63%;
+    
+}
+
+
+.article22choc{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 65);
+    font-size: 2vh;
+    width: 13%;
+    text-align: center;
+    margin-left: 80%;
+    
+}
+
+
+.article223choc{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 65);
+    font-size: 2vh;
+    width: 10%;
+    text-align: center;
+    margin-left: 90%;
+    
+}
+
+.article222choc{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 65);
+    font-size: 2vh;
+    width: 30%;
+    text-align: center;
+    margin-left: 70%;
+    margin-top: -5vh;
+    
+}
+
+
+.article23{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 65);
+    font-size: 2vh;
+    width: 30%;
+    text-align: center;
+    margin-left: 50%;
+    
+}
+
+.article23{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 65);
+    font-size: 2vh;
+    width: 42%;
+    text-align: center;
+    margin-left: 50%;
+    
+}
+
+.corps{
+    color: black;
+    font-size: 1.5vh;
+    font-family: Baikal-Regular;
+    width: 70%;
+}
+
+.corps99{
+    color: black;
+    font-size: 1.5vh;
+    font-family: Baikal-Regular;
+    width: 50%;
+}
+
+.corps88{
+    color: black;
+    font-size: 1.5vh;
+    font-family: Baikal-Regular;
+    width: 50%;
+}
+
+.corpschoc{
+    color: black;
+    font-size: 1.5vh;
+    font-family: Baikal-Regular;
+    width: 30%;
+}
+
+
+
+.corps2{
+    color: black;
+    font-size: 1.5vh;
+    font-family: Baikal-Regular;
+    width: 60%;
+    text-align: right;
+    margin-left: 40%;
+
+}
+
+.corps82{
+    color: black;
+    font-size: 1.5vh;
+    font-family: Baikal-Regular;
+    width: 45%;
+    text-align: right;
+    margin-left: 50%;
+
+}
+
+.corps2choc{
+    color: black;
+    font-size: 1.5vh;
+    font-family: Baikal-Regular;
+    width: 30%;
+    text-align: right;
+    margin-left: 70%;
+
+}
+
+#navet{
+    display: flex;
+    width: 100%;
+    margin-bottom: 15%;
+}
+
+#pain{
+    display: flex;
+    width: 100%;
+    margin-bottom: 15%;
+}
+
+
+#Choco{
+
+    display: flex;
+    width: 100%;
+    margin-bottom: 15%;
+
+}
+
+.article33{
+    margin-top: %;
+}
+
+.art{
+    margin-top: -7%;
+}
+
+
+.art2{
+   margin-top: -10%;
+}
+
+.texte{
+    margin-top: -2vh;
+}
+
+.but{
+    color: black;
+}
+
+.choky{
+    margin-left: 70%;
+}
+
+
+.photochoc{
+    height: 45vh;
+    margin-top: -27%;
+    margin-left: 30%;
+}
+
+.der{
+    height: 30vh;
+    margin-top: -12%;
+}

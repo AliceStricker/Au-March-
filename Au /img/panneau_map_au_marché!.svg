@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 841.89 595.28">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .01em;
+      }
+
+      .cls-2 {
+        fill: #e40134;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: BebasNeue-Regular, 'Bebas Neue';
+        font-size: 9px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-6, .cls-8, .cls-9 {
+        stroke-width: 0px;
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-11 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-12 {
+        letter-spacing: .02em;
+      }
+
+      .cls-13 {
+        letter-spacing: .02em;
+      }
+
+      .cls-14 {
+        letter-spacing: .01em;
+      }
+
+      .cls-15 {
+        letter-spacing: .01em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-17 {
+        letter-spacing: .01em;
+      }
+
+      .cls-7 {
+        stroke: #e40134;
+      }
+
+      .cls-18 {
+        letter-spacing: .01em;
+      }
+
+      .cls-19 {
+        letter-spacing: .01em;
+      }
+
+      .cls-20 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-21 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-22 {
+        letter-spacing: .02em;
+      }
+
+      .cls-8 {
+        fill: #1d1d1b;
+      }
+
+      .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-23 {
+        letter-spacing: .02em;
+      }
+
+      .cls-24 {
+        letter-spacing: 0em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-6" x="384.66" y="257.53" width="112.68" height="120.33"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-6" x="384.66" y="257.53" width="112.68" height="120.33"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-6" x="384.66" y="257.53" width="112.68" height="120.33"/>
+    </clipPath>
+  </defs>
+  <g class="cls-5">
+    <path class="cls-9" d="m387.99,259.04h106.01c1.56,0,2.84,1.27,2.84,2.84v112.65c0,1.56-1.27,2.83-2.83,2.83h-106.02c-1.56,0-2.83-1.27-2.83-2.83v-112.65c0-1.56,1.27-2.84,2.84-2.84Z"/>
+    <path class="cls-7" d="m387.99,259.04h106.01c1.56,0,2.84,1.27,2.84,2.84v112.65c0,1.56-1.27,2.83-2.83,2.83h-106.02c-1.56,0-2.83-1.27-2.83-2.83v-112.65c0-1.56,1.27-2.84,2.84-2.84Z"/>
+  </g>
+  <text class="cls-3" transform="translate(413.22 272.98)"><tspan class="cls-17" x="0" y="0">c</tspan><tspan class="cls-13" x="3.57" y="0">a</tspan><tspan class="cls-19" x="7.32" y="0">r</tspan><tspan class="cls-17" x="11.06" y="0">t</tspan><tspan class="cls-14" x="14.46" y="0">e d</tspan><tspan class="cls-17" x="23.23" y="0">u</tspan><tspan class="cls-14" x="26.97" y="0"> </tspan><tspan class="cls-17" x="28.55" y="0">m</tspan><tspan class="cls-13" x="33.52" y="0">arc</tspan><tspan class="cls-15" x="44.6" y="0">h</tspan><tspan class="cls-24" x="48.51" y="0">é</tspan></text>
+  <g class="cls-10">
+    <path class="cls-8" d="m400.18,289.2c2.58,0,4.68-2.09,4.68-4.68s-2.09-4.68-4.68-4.68-4.68,2.09-4.68,4.68,2.09,4.68,4.68,4.68"/>
+    <path class="cls-8" d="m400.18,299.2c2.58,0,4.68-2.09,4.68-4.68s-2.09-4.68-4.68-4.68-4.68,2.09-4.68,4.68,2.09,4.68,4.68,4.68"/>
+    <path class="cls-8" d="m400.18,309.08c2.58,0,4.68-2.09,4.68-4.68s-2.09-4.68-4.68-4.68-4.68,2.09-4.68,4.68,2.09,4.68,4.68,4.68"/>
+    <path class="cls-8" d="m400.18,319.24c2.58,0,4.68-2.09,4.68-4.68s-2.09-4.68-4.68-4.68-4.68,2.09-4.68,4.68,2.09,4.68,4.68,4.68"/>
+    <path class="cls-8" d="m400.18,329.18c2.58,0,4.68-2.09,4.68-4.68s-2.09-4.68-4.68-4.68-4.68,2.09-4.68,4.68,2.09,4.68,4.68,4.68"/>
+    <path class="cls-8" d="m400.18,339.32c2.58,0,4.68-2.09,4.68-4.68s-2.09-4.68-4.68-4.68-4.68,2.09-4.68,4.68,2.09,4.68,4.68,4.68"/>
+    <path class="cls-8" d="m400.18,349.39c2.58,0,4.68-2.09,4.68-4.68s-2.09-4.68-4.68-4.68-4.68,2.09-4.68,4.68,2.09,4.68,4.68,4.68"/>
+    <path class="cls-8" d="m400.18,359.46c2.58,0,4.68-2.09,4.68-4.68s-2.09-4.68-4.68-4.68-4.68,2.09-4.68,4.68,2.09,4.68,4.68,4.68"/>
+    <path class="cls-8" d="m400.18,369.52c2.58,0,4.68-2.09,4.68-4.68s-2.09-4.68-4.68-4.68-4.68,2.09-4.68,4.68,2.09,4.68,4.68,4.68"/>
+    <path class="cls-9" d="m400.23,363.25c.55,0,.95.34.95.89h0c0,.56-.4.93-.95.93s-.95-.36-.95-.92h0c0-.56.4-.9.95-.9m0-.53c-.93,0-1.6.6-1.6,1.43h0c0,.87.66,1.45,1.46,1.45.55,0,.94-.25,1.15-.57-.04.97-.41,1.56-1.1,1.56-.37,0-.68-.15-.76-.57h-.63c.09.62.55,1.1,1.39,1.1,1.2,0,1.75-1.03,1.75-2.4h0c0-1.28-.59-2-1.66-2"/>
+    <path class="cls-9" d="m400.19,356.43c-.58,0-.95-.28-.95-.74h0c0-.47.38-.75.95-.75s.95.28.95.75h0c0,.46-.38.74-.95.74Zm0-2.02c-.48,0-.82-.25-.82-.65h0c0-.4.34-.65.82-.65s.82.25.82.65h0c0,.41-.34.66-.82.66Zm0,2.56c.98,0,1.62-.49,1.62-1.27h0c0-.56-.37-.9-.74-1.05h0c.34-.16.6-.5.6-.96h0c0-.67-.6-1.12-1.48-1.12s-1.48.45-1.48,1.11h0c0,.46.26.8.6.96h0c-.37.16-.74.5-.74,1.05h0c0,.78.64,1.27,1.62,1.27"/>
+    <path class="cls-9" d="m399.34,346.92h.64c.04-1.79.62-2.76,1.78-3.67v-.56h-3.08v.56h2.41c-1.1.89-1.71,1.93-1.75,3.67"/>
+    <path class="cls-9" d="m400.08,336.16c-.55,0-.95-.34-.95-.89h0c0-.56.4-.93.95-.93s.94.36.94.92h0c0,.56-.4.9-.94.9m0,.53c.93,0,1.6-.6,1.6-1.43h0c0-.87-.66-1.45-1.46-1.45-.55,0-.94.25-1.15.57.04-.97.41-1.56,1.1-1.56.37,0,.68.15.76.57h.63c-.09-.62-.55-1.1-1.39-1.1-1.2,0-1.75,1.03-1.75,2.4h0c0,1.28.59,1.99,1.66,1.99"/>
+    <path class="cls-9" d="m400.12,326.57c.89,0,1.62-.56,1.62-1.45h0c0-.89-.64-1.41-1.44-1.41-.43,0-.77.14-1,.35l.21-1.24h1.96v-.56h-2.44l-.41,2.35h.66c.14-.2.4-.37.84-.37.52,0,.95.28.95.89h0c0,.61-.44.91-.96.91-.48,0-.84-.19-.93-.75h-.66c.09.82.68,1.29,1.6,1.29"/>
+  </g>
+  <path class="cls-9" d="m398.76,314.94l1.67-1.89h0v1.89h-1.68Zm1.68,1.58h.64v-1.03h.77v-.56h-.77v-2.65h-.64l-2.32,2.65v.56h2.32v1.03Z"/>
+  <g class="cls-11">
+    <path class="cls-9" d="m400.19,306.44c.9,0,1.6-.44,1.6-1.26h0c0-.58-.34-.91-.82-1.06h0c.39-.15.66-.51.66-.98h0c0-.71-.59-1.1-1.44-1.1-.93,0-1.5.49-1.55,1.28h.67c.03-.55.35-.75.85-.75s.83.2.83.62h0c0,.41-.32.69-.97.69h-.22v.52h.22c.69,0,1.1.26,1.1.74h0c0,.53-.43.74-.94.74s-.98-.19-1.04-.78h-.67c.06.84.74,1.32,1.71,1.32"/>
+    <path class="cls-9" d="m398.62,296.49h3.14v-.55h-2.42c.12-.39.36-.54.96-.92l.32-.2c.74-.47,1.07-.82,1.07-1.45h0c0-.79-.62-1.18-1.45-1.18-.9,0-1.51.5-1.53,1.47h.65c.01-.74.39-.94.87-.94s.79.22.79.66h0c0,.43-.26.68-.72.97l-.34.21c-.88.55-1.34.97-1.34,1.89v.04Z"/>
+    <path class="cls-9" d="m400.11,286.57h.64v-4.23h-.49c-.16.48-.36.56-.94.56h-.17v.56h.96v3.12Z"/>
+  </g>
+  <text class="cls-2" transform="translate(413.22 286.97)"><tspan class="cls-14"><tspan x="0" y="0">Rue de Bourg</tspan></tspan><tspan class="cls-14" x="0" y="10">P</tspan><tspan class="cls-22" x="3.61" y="10">l</tspan><tspan class="cls-18" x="6.88" y="10">a</tspan><tspan class="cls-13" x="10.6" y="10">ce </tspan><tspan class="cls-1" x="19.16" y="10">S</tspan><tspan class="cls-13" x="22.62" y="10">ain</tspan><tspan class="cls-21" x="32.2" y="10">t</tspan><tspan class="cls-13" x="34.95" y="10">-Fran</tspan><tspan class="cls-12" x="52.23" y="10">ç</tspan><tspan class="cls-13" x="55.83" y="10">ois</tspan><tspan class="cls-14"><tspan x="0" y="20">Rue du Pont</tspan></tspan><tspan class="cls-14" x="0" y="30">P</tspan><tspan class="cls-22" x="3.61" y="30">l</tspan><tspan class="cls-18" x="6.88" y="30">a</tspan><tspan class="cls-13" x="10.6" y="30">ce de </tspan><tspan class="cls-22" x="27.93" y="30">l</tspan><tspan class="cls-14" x="31.19" y="30">a </tspan><tspan class="cls-4" x="36.51" y="30">P</tspan><tspan class="cls-13" x="39.81" y="30">alud</tspan><tspan class="cls-14" x="0" y="40">Rue </tspan><tspan class="cls-1" x="12.49" y="40">S</tspan><tspan class="cls-13" x="15.95" y="40">ain</tspan><tspan class="cls-21" x="25.53" y="40">t</tspan><tspan class="cls-13" x="28.29" y="40">-</tspan><tspan class="cls-23" x="30.85" y="40">L</tspan><tspan class="cls-19" x="34.12" y="40">a</tspan><tspan class="cls-14" x="37.84" y="40">urent</tspan><tspan class="cls-14" x="0" y="50">P</tspan><tspan class="cls-22" x="3.61" y="50">l</tspan><tspan class="cls-18" x="6.88" y="50">a</tspan><tspan class="cls-13" x="10.6" y="50">ce du 14 juin</tspan><tspan class="cls-14"><tspan x="0" y="60">Rue Haldimand</tspan></tspan><tspan class="cls-14" x="0" y="70">P</tspan><tspan class="cls-22" x="3.61" y="70">l</tspan><tspan class="cls-18" x="6.88" y="70">a</tspan><tspan class="cls-13" x="10.6" y="70">ce de </tspan><tspan class="cls-22" x="27.93" y="70">l</tspan><tspan class="cls-14" x="31.19" y="70">a Riponne</tspan><tspan class="cls-14" x="0" y="80">Rue de </tspan><tspan class="cls-20" x="21.26" y="80">l</tspan><tspan class="cls-16" x="23.83" y="80">&apos;</tspan><tspan class="cls-13" x="25.18" y="80">Ale</tspan></text>
+</svg>

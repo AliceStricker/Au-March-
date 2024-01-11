@@ -1,0 +1,263 @@
+
+body{
+   
+    background-color: rgb(255, 255, 255);
+    
+    
+   
+}
+
+
+a { color: #000000; } /* CSS link color */
+
+
+.titi{
+    font-size: 4vh;
+
+    
+    font-family: BebasNeue-Regular;
+}
+
+.EDIZION{
+    font-size: 6vh;
+    width: 100%;
+    margin-left: 25%;
+    margin-top: 15%;
+    
+    
+    font-family: BebasNeue-Regular;
+}
+
+.titi2{
+    font-size: 16vh;
+    margin-top: -15vh;
+    font-family: Baikal-Regular;
+    color: black;
+}
+.titre{
+    color: rgb(0, 0, 0);
+    font-size: 6rem;
+    font-family: Baikal-Regular;
+    padding-left: 23%;
+    padding-top: 20vh;
+
+   
+}
+.titre2{
+    color: black;
+    font-size: 2rem;
+    font-family: BebasNeue-Regular;
+    margin-top: -1vh;
+}
+
+
+.titre3{
+    display: flex;
+    margin-top: -10vh;
+}
+
+.frais{
+    margin-top: -2vh;
+    margin-left: 10vh;
+}
+
+.chevre{
+    margin-top: -3vh;
+   font-size: 3vh;
+   font-family: BebasNeue-Regular;
+   margin-left: 52vh;
+}
+
+.texte{
+    font-size: 1rem;
+    font-family: Baikal-Regular;
+    color: black;
+    margin-top: -8vh;
+}
+
+.texteD{
+    font-size: 1rem;
+    font-family: Baikal-Regular;
+    color: black;
+    
+}
+
+.texte2{
+    font-size: 1rem;
+    font-family: Baikal-Regular;
+    color: black;
+    text-align: right;
+    margin-left: 8vh;
+    
+    
+}
+
+
+.boutton1{
+    font-family: BebasNeue-Regular;
+    margin-left: 14%;
+    font-size: 4vh;
+    margin-top: 2vh;
+    color: rgb(255, 255, 255);
+
+}
+
+.boutton3 :hover{
+    color: rgb(255, 0, 64);
+    
+}
+
+.boutton1 :hover{
+    color: rgb(255, 0, 64);
+    
+}
+
+
+.boutton3{
+    font-family: Baikal-Regular;
+    margin-left: 12%;
+    font-size: 4vh;
+    margin-top: 2vh;
+    color: rgb(255, 255, 255);
+
+}
+
+
+
+
+.boutton{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    padding-top: -15vh;
+    margin-left: 78%;
+}
+
+
+
+.bande{
+    width: 100%;
+    height: auto;
+   
+    margin: -0.7vh;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+}
+
+
+
+
+.bande3{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    margin-top: 92vh;
+    margin-left: -1vh;
+    font-size: 6vh;
+     font-family: Baikal-Regular;
+     position: fixed;
+}
+
+.fleche{
+    rotate: 180deg;
+    margin-left: 40vh;
+    margin-right: 80vh;
+    margin-top: 15vh;
+    z-index: 5;
+}
+
+#edito{
+    font-size: 2vh;
+    background-color: rgba(0, 0, 0, 0.288);
+    color: rgb(255, 255, 255);
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+     font-family: Baikal-Regular;
+    padding: 4%;
+    margin-bottom: 10%;
+    
+}
+
+.vert{
+    font-size: 3vh;
+    background-color: rgb(255, 255, 255);
+    font-family: BebasNeue-Regular;
+    width: 20%;
+    padding: 3%;
+    text-align: center;
+    margin-top: 5%;
+    
+}
+
+
+.jaune{
+    font-size: 3vh;
+    background-color: rgb(255, 255, 255);
+    font-family: BebasNeue-Regular;
+    width: 20%;
+    padding: 3%;
+    text-align: center;
+    margin-top: 5%;
+
+}
+
+.rouge{
+    font-size: 3vh;
+    background-color: rgb(255, 255, 255);
+    font-family: BebasNeue-Regular;
+    width: 20%;
+    padding: 3%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.edition{
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.vertical-menu{
+    width: 25%;
+    height: 130px;
+    overflow-y: auto;
+    margin-left: 22%;
+    margin-top: 1%;
+   
+    
+    
+
+}
+
+
+
+.vertical-menu a {
+
+background-color: rgb(241, 241, 241);
+color: black;
+display: block;
+padding: 12px;
+text-decoration: none;
+font-size: 3rem;
+font-family:BebasNeue-Regular ;
+text-align: center;
+padding-top: 8%;
+padding-bottom: 7%;
+
+
+
+
+}
+
+.vertical-menu a :hover{
+   
+
+}
+
+.vertical-menu a.active{
+    background-color:rgb(119, 119, 119); 
+    color: rgb(160, 160, 160);
+}
+
